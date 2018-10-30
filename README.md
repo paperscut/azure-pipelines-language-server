@@ -95,7 +95,7 @@ In order to tighten the dev loop you can utilize `npm link` that will sync chang
     * `npm ls -g` - to check it is added
     * `cd ../language-server`
     * `npm link azure-pipelines-language-service`
-3. Now you can make changes to the service compile and your changes will be awailable in the server
+3. Now you can make changes to the service compile and your changes will be available in the server
     * Run `npm run watch` to auto detect changes and compile
 
 ### Connecting to the language server via stdio
